@@ -1,0 +1,41 @@
+html {
+  background-image: url("https://lh3.googleusercontent.com/proxy/SA0BeTkuv-XfKFI_4NdAeYTVe7kcIejbIimRjLvniNc7qu-QZ2hF0zqU4WSDpIe3bhAlV7pz7-APb3qbrqo2BpKibMnE14iUWcg6ThNnIm1kWSFMUCmDDd7XrDun_A5-");
+  font-family: Arial, Helvetica, sans-serif; 
+  max-width: 750px;
+  margin: auto;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+  background-color: deepskyblue;
+}
+
+nav {
+  background-color: deepskyblue;
+}
+
+section {
+  background-color: lightblue;
+  border: 1px solid aliceblue;
+  padding: 1em 1em;
+}
+
+p {
+  font-size: 80%;
+}
+
+footer {
+  font-size: 80%;
+  background-color: aliceblue;
+  padding-bottom: 1em;
+}
+
+div {
+  font-weight: bold;
+}
+
+address {
+  font-style: italic;
+  padding: 1em 1em;
+}
